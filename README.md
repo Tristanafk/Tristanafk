@@ -1,90 +1,144 @@
 <div align="center">
 
-# Hi, I'm Tristan 👋
+# `> TRISTAN_`
 
-### 🛡️ Cybersecurity Enthusiast | CTF Player
+**Cybersecurity Enthusiast · CTF Player · Linux User**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Capture+The+Flag+Player;Reverse+Engineering;Binary+Exploitation;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=%24+whoami;Cybersecurity+Enthusiast;Capture+The+Flag+Player;Reverse+Engineering+%26+PWN;Breaking+Things+To+Understand+Them" alt="Typing animation" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Tristanafk&label=PROFILE+VIEWS&color=00aa66&style=for-the-badge" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### `01 // ABOUT_ME`
 
-```bash
-$ whoami
+```python
+class Tristan:
+    def __init__(self):
+        self.username = "Tristanafk"
+        self.role = "Cybersecurity Enthusiast"
+        self.os = "Ubuntu Linux"
 
-Name       : Tristan
-Focus      : Cybersecurity
-Interests  : CTF, Reverse Engineering, Binary Exploitation
-OS         : Ubuntu Linux
-Currently  : Learning & Exploring Cybersecurity
+        self.interests = [
+            "Reverse Engineering",
+            "Binary Exploitation",
+            "Cryptography",
+            "Digital Forensics",
+            "Web Security"
+        ]
+
+        self.currently_learning = [
+            "Exploit Development",
+            "Malware Analysis",
+            "System Security"
+        ]
+
+    def motto(self):
+        return "Stay curious. Keep learning."
 ```
 
-I'm passionate about cybersecurity, especially solving Capture The Flag challenges and exploring how systems work.
-
-I enjoy analyzing binaries, solving cryptographic puzzles, and learning new security techniques.
-
----
-
-## 🛡️ Cybersecurity Interests
-
-- 🔍 Reverse Engineering
-- 💥 Binary Exploitation (PWN)
-- 🔐 Cryptography
-- 🌐 Web Security
-- 🕵️ Digital Forensics
-- 🐧 Linux & System Security
-
----
-
-## ⚙️ Tech Stack & Tools
+### `02 // TECH_STACK`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,ubuntu,docker,git,github,vscode&perline=5" />
+**Languages & Development**
 
-</div>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,js&theme=dark" alt="Programming languages" />
 
-### Security Tools
+<br><br>
 
-`GDB` • `Pwntools` • `Ghidra` • `Binwalk` • `Wireshark` • `SageMath` • `Z3`
+**Environment & Tools**
 
----
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,vscode&theme=dark" alt="Development tools" />
 
-## 📊 GitHub Statistics
+<br><br>
 
-<div align="center">
+**Security Toolkit**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tristanafk&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tristanafk&layout=compact&theme=tokyonight&hide_border=true" />
+![GDB](https://img.shields.io/badge/GDB-111827?style=for-the-badge&logo=gnu&logoColor=00ff88)
+![Ghidra](https://img.shields.io/badge/Ghidra-111827?style=for-the-badge&logoColor=00ff88)
+![Pwntools](https://img.shields.io/badge/Pwntools-111827?style=for-the-badge&logo=python&logoColor=00ff88)
+![Wireshark](https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark&logoColor=00ff88)
+![SageMath](https://img.shields.io/badge/SageMath-111827?style=for-the-badge&logoColor=00ff88)
+![Z3](https://img.shields.io/badge/Z3_Solver-111827?style=for-the-badge&logoColor=00ff88)
 
 </div>
 
 ---
 
-## 🏆 CTF Journey
+### `03 // CTF_OPERATIONS`
 
 ```text
-> Initializing CTF environment...
+┌───────────────────────────────────────────────┐
+│              CTF OPERATIONS                   │
+├───────────────────────────────────────────────┤
+│                                               │
+│  [01] REVERSE ENGINEERING       ● ACTIVE      │
+│  [02] BINARY EXPLOITATION       ● ACTIVE      │
+│  [03] CRYPTOGRAPHY              ● ACTIVE      │
+│  [04] DIGITAL FORENSICS         ● ACTIVE      │
+│  [05] WEB SECURITY              ● LEARNING    │
+│                                               │
+│  STATUS: ALWAYS LEARNING                      │
+│                                               │
+└───────────────────────────────────────────────┘
+```
 
-[+] Reverse Engineering
-[+] Binary Exploitation
-[+] Cryptography
-[+] Digital Forensics
-[+] Web Exploitation
+### `04 // GITHUB_ANALYTICS`
 
-> Keep learning. Keep hacking ethically.
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tristanafk&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" alt="GitHub stats" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tristanafk&layout=compact&theme=github_dark&hide_border=true&title_color=00ff88&text_color=c9d1d9" alt="Top languages" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tristanafk&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
+
+</div>
+
+---
+
+### `05 // CONTRIBUTION_SNAKE`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Tristanafk/Tristanafk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+
+</div>
+
+---
+
+### `06 // CURRENT_OBJECTIVES`
+
+```bash
+tristan@ubuntu:~$ cat objectives.txt
+
+[+] Improve reverse engineering skills
+[+] Explore binary exploitation
+[+] Solve challenging CTF problems
+[+] Build cybersecurity projects
+[+] Learn something new every day
+
+tristan@ubuntu:~$ echo "Keep exploring."
+Keep exploring.
 ```
 
 ---
 
 <div align="center">
 
-### ⚡ "Stay Curious. Keep Learning."
+### `> CONNECTION_TERMINATED_`
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tristanafk&color=00ff9c&style=flat-square)
+**"Stay curious. Think deeper. Hack ethically."**
+
+`[ SYSTEM ONLINE ]` · `[ ALWAYS LEARNING ]`
 
 </div>
