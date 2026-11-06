@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./banner.png" width="100%" alt="Tristan Cybersecurity Banner">
+</div>
+
+<div align="center">
 
 # `> TRISTAN_`
 
