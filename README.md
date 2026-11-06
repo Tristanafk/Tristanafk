@@ -92,19 +92,15 @@ class Tristan:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tristanafk&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tristanafk&theme=github_dark" width="95%" alt="GitHub Profile Details" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tristanafk&layout=compact&theme=github_dark&hide_border=true&title_color=00ff88&text_color=c9d1d9" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tristanafk&theme=github_dark" width="47%" alt="GitHub Statistics" />
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tristanafk&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tristanafk&theme=github_dark" width="47%" alt="Top Languages" />
 
 </div>
-
----
 
 ### `05 // CONTRIBUTION_SNAKE`
 
